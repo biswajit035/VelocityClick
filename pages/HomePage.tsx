@@ -198,7 +198,7 @@ export default function HomePage() {
         <div className="flex w-full flex-col items-center gap-8 text-white md:justify-center">
           <h1 className="titleColor text-center font-serif text-6xl"
           // style={{ "textShadow": "0px 0px 5px #D9B29C" }}
-          >We Manage Your Brands in Multiple Channels</h1>
+          >We Manage Your Brands in Multiple Channelss</h1>
           <p className="titleColor text-center font-mono text-xl md:px-5">Our motto is to build a communication bridge between advertisers, customers, and affiliates.</p>
           <div className="flex flex-wrap justify-center gap-5">
             <Link href={"https://xtreameadsmediasolutions10389562.offer18.com/m/signup_self_adv?r=&am="} className="btn-header">
